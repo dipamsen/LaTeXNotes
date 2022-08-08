@@ -1,0 +1,12 @@
+{
+  "name": "latexnotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pandoc "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
